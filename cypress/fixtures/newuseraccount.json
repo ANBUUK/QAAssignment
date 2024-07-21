@@ -1,0 +1,15 @@
+{
+  "status": "Success",
+  "data": {
+    "userId": "7d3163c8-21ed-4d66-8fe6-727180972738",
+    "title": "Mr",
+    "firstName": "Smith",
+    "lastName": "Pan",
+    "dateOfBirth": "1988-04-02",
+    "email": "smith@email.com",
+    "password": "sxyz",
+    "rating": 9,
+    "status": "active"
+  },
+  "error": null
+}
