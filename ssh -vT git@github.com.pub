@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICFSAIh/bRQL9lM+/+mvq5o/1sVcdTX9iOwO9fVl4eVA anbupan1@gmail.com
+ssh-keygen -t ed25519 -C anbupan19@gmail.com
